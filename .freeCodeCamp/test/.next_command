@@ -180,3 +180,11 @@ touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
 printenv
+echo @LANG
+chmod +x questionnaire.sh
+echo @LANG
+git status
+git add .
+rm questionnare.sh
+cp questionnaire.sh questionnaire1.sh
+chmod 777 questionnaire.sh
