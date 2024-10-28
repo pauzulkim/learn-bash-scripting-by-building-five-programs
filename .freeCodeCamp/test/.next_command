@@ -164,3 +164,4 @@ help [[ exspression ]]
 ./countdown.sh 1
 ./countdown.sh 0
 help
+./countdown.sh 10
