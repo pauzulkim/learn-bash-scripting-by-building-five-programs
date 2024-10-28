@@ -108,3 +108,4 @@ ls --color=auto -l
 ./questionnaire.sh
 echo Hello $NAME
 ./questionnaire.sh
+./questionnaire.sh
