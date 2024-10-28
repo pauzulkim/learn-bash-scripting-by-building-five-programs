@@ -111,3 +111,4 @@ echo Hello $NAME
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+man echo
